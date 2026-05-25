@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hieu 👋</h1>
 
 <p align="center">
-  <b>Embedded Systems Student · Đại học Bách Khoa Hà Nội</b><br/>
+  <b>Embedded Systems Student </b><br/>
   Passionate about low-level programming, IoT, and building things that interact with the physical world.
 </p>
 
@@ -17,7 +17,7 @@
 - 🔭 Currently exploring **Embedded Systems** with **ESP32** and bare-metal firmware
 - 💻 Primary languages: **C / C++** · also use **Python** for tooling & scripting
 - 🌱 Learning: real-time systems, IoT communication protocols, hardware-software integration
-- 📍 Based in **Hà Nội, Việt Nam**
+- 📍 Based in **Hanoi, Vietnam**
 - 📬 Reach me at: **kudohieu1209@gmail.com**
 
 ---
