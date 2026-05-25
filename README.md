@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hiếu 👋</h1>
+<h1 align="center">Hi, I'm Hieu 👋</h1>
 
 <p align="center">
   <b>Embedded Systems Student · Đại học Bách Khoa Hà Nội</b><br/>
@@ -13,7 +13,7 @@
 
 ### 🧭 About Me
 
-- 🎓 Studying at **Đại học Bách Khoa Hà Nội**
+- 🎓 Studying at **Hanoi University of Science and Technology (HUST)**
 - 🔭 Currently exploring **Embedded Systems** with **ESP32** and bare-metal firmware
 - 💻 Primary languages: **C / C++** · also use **Python** for tooling & scripting
 - 🌱 Learning: real-time systems, IoT communication protocols, hardware-software integration
