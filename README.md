@@ -57,5 +57,5 @@
 
 <p>
   <a href="mailto:kudohieu1209@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@kudohieu.12"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@kudohieu.1209"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
 </p>
