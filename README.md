@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hieu</h1>
 
 <p align="center">
-  <b>Embedded Systems Student</b><br/>
-  I enjoy building software that connects code with the physical world.
+  <b>Embedded Systems Student | C/C++ | STM32 | ESP32 | IoT</b><br/>
+  I am building a practical foundation in embedded software, hardware tools, and real-world engineering projects.
 </p>
 
 <p align="center">
@@ -14,9 +14,11 @@
 ### About Me
 
 - Studying at **Hanoi University of Science and Technology (HUST)**
-- Interested in **Embedded Systems**, **IoT**, and hardware-software integration
-- Working with **C/C++**, **Python**, and web technologies for personal projects
-- Currently learning more about firmware, real-time systems, and practical engineering tools
+- Interested in **Embedded Systems**, **IoT**, firmware, and hardware-software integration
+- Comfortable with **C/C++**, **Python**, basic web technologies, and Git-based workflows
+- Basic familiarity with **Altium Designer** and **Proteus** for circuit design and simulation
+- Currently learning **STM32** development for embedded systems projects
+- Looking for internship opportunities where I can learn, contribute, and grow as an engineer
 - Based in **Hanoi, Vietnam**
 - Contact: **kudohieu1209@gmail.com**
 
@@ -24,14 +26,34 @@
 
 ### Tech Stack
 
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+**Web Basics**
+
+<p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+**Embedded & Hardware**
+
+<p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+  <img src="https://img.shields.io/badge/Proteus-1C4E80?style=flat-square" alt="Proteus"/>
+</p>
+
+**Tools**
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -43,7 +65,6 @@
 | Project | Description | Tech |
 | --- | --- | --- |
 | [RIS_VLC_HTVT](https://github.com/kudohieu1209/RIS_VLC_HTVT) | Simulation and analysis project related to RIS/VLC communication systems | Python |
-| [Plan-Daily](https://github.com/kudohieu1209/Plan-Daily) | Personal daily planning app for organizing tasks and schedules | JavaScript |
 
 ---
 
