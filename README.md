@@ -77,7 +77,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kudohieu1209&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudohieu1209&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudohieu1209&layout=compact&hide_border=true&theme=default&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages" />
 </p>
 
 ---
