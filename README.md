@@ -15,7 +15,7 @@
 
 - Studying at **Hanoi University of Science and Technology (HUST)**
 - Interested in **Embedded Systems**, **IoT**, firmware, and hardware-software integration
-- Comfortable with **C/C++**, **Python**, basic web technologies, and Git-based workflows
+- Comfortable with **C/C++**, ASM, basic web technologies, and Git-based workflows
 - Basic familiarity with **Altium Designer** and **Proteus** for circuit design and simulation
 - Currently learning **STM32** development for embedded systems projects
 - Looking for internship opportunities where I can learn, contribute, and grow as an engineer
