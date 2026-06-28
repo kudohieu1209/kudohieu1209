@@ -45,8 +45,10 @@
 **Embedded & Hardware**
 
 <p>
+  <img src="https://img.shields.io/badge/AVR%20%2F%20ATmega-A2007C?style=flat-square" alt="AVR / ATmega"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/CodeVisionAVR-555555?style=flat-square" alt="CodeVisionAVR"/>
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
   <img src="https://img.shields.io/badge/Proteus-1C4E80?style=flat-square" alt="Proteus"/>
 </p>
@@ -64,7 +66,10 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [atmega-temperature-controller](https://github.com/kudohieu1209/atmega-temperature-controller) | ATmega16 + LM35 temperature controller — LCD 16x2 readout, fan/light relay control by setpoint, button-adjustable threshold saved in EEPROM | C |
+| [line-follower-robot](https://github.com/kudohieu1209/line-follower-robot) | Firmware for an autonomous line-following robot | C++ |
 | [RIS_VLC_HTVT](https://github.com/kudohieu1209/RIS_VLC_HTVT) | Simulation and analysis project related to RIS/VLC communication systems | Python |
+| [he-thong-quan-ly-cong-trinh-thuy-loi](https://github.com/kudohieu1209/he-thong-quan-ly-cong-trinh-thuy-loi) | Management system for hydraulic / irrigation works | C# |
 
 ---
 
